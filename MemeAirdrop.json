@@ -1,0 +1,804 @@
+{
+  "users": [
+    {
+      "wallet": "illia555.near",
+      "amount": "150000000000000000000000"
+    },
+    {
+      "wallet": "b4c2be60b70d3e439d4dfe3d17ecbd8b7e64df2e702eee80033e2e01a7ca1576",
+      "amount": "150000000000000000000000"
+    },
+    {
+      "wallet": "mixeddraft.near",
+      "amount": "150000000000000000000000"
+    },
+    {
+      "wallet": "angry-cat.near",
+      "amount": "150000000000000000000000"
+    },
+    {
+      "wallet": "cheesey.near",
+      "amount": "150000000000000000000000"
+    },
+    {
+      "wallet": "jakeser.near",
+      "amount": "150000000000000000000000"
+    },
+    {
+      "wallet": "goldenbean.near",
+      "amount": "150000000000000000000000"
+    },
+    {
+      "wallet": "dcc81d49b62bf89e1a07de111c32aa89fb4b6859e8bd47fa73052df9e3599244",
+      "amount": "150000000000000000000000"
+    },
+    {
+      "wallet": "seriousfarmer.near",
+      "amount": "150000000000000000000000"
+    },
+    {
+      "wallet": "2024happy.near",
+      "amount": "150000000000000000000000"
+    },
+    {
+      "wallet": "naturespot.near",
+      "amount": "150000000000000000000000"
+    },
+    {
+      "wallet": "near_moonnn.near",
+      "amount": "150000000000000000000000"
+    },
+    {
+      "wallet": "camchis1.near",
+      "amount": "150000000000000000000000"
+    },
+    {
+      "wallet": "f7f799cd10912774fd9436562ae6484aef82f4a0e8a13950bb6b932873a75622",
+      "amount": "150000000000000000000000"
+    },
+    {
+      "wallet": "treasury.nekotoken.near",
+      "amount": "150000000000000000000000"
+    },
+    {
+      "wallet": "3c2c997f682d07bf1f5425e5899ed4f41acc61bd1403c1962c8ff01d983478a2",
+      "amount": "150000000000000000000000"
+    },
+    {
+      "wallet": "bennyblanco.near",
+      "amount": "150000000000000000000000"
+    },
+    {
+      "wallet": "ea7dbb4fb8614208d6a72b5808ca01900dfc9d6c3ac23bc72eaf92d36425f98d",
+      "amount": "150000000000000000000000"
+    },
+    {
+      "wallet": "randoms.near",
+      "amount": "150000000000000000000000"
+    },
+    {
+      "wallet": "meteorkent.near",
+      "amount": "150000000000000000000000"
+    },
+    {
+      "wallet": "a88098f94f3c58db86397810d1dbfa67ff59b52d2f0d78e16c25804a20c1e0db",
+      "amount": "150000000000000000000000"
+    },
+    {
+      "wallet": "pysr.near",
+      "amount": "150000000000000000000000"
+    },
+    {
+      "wallet": "da2ec31b17d7b3373da002974f20b3b3fa1d6b7e26a126e126c1a94578f677b7",
+      "amount": "150000000000000000000000"
+    },
+    {
+      "wallet": "latemask4365.near",
+      "amount": "150000000000000000000000"
+    },
+    {
+      "wallet": "meteormarketing.near",
+      "amount": "150000000000000000000000"
+    },
+    {
+      "wallet": "83753d302b8bd3041c74dbf1b74c9b25d2643e5c5c65e0014b06c3f38deb09f3",
+      "amount": "150000000000000000000000"
+    },
+    {
+      "wallet": "d2f268b14ee860e7911f246271eab76c8de3765b837a982a1a0167f96b0835bb",
+      "amount": "150000000000000000000000"
+    },
+    {
+      "wallet": "dleer.near",
+      "amount": "150000000000000000000000"
+    },
+    {
+      "wallet": "hodler81.near",
+      "amount": "150000000000000000000000"
+    },
+    {
+      "wallet": "kangaroojack.near",
+      "amount": "150000000000000000000000"
+    },
+    {
+      "wallet": "50da1e60f28bf033f8223a736df13096a66de04bffc4c14f6c0abc09b60ae45d",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "ybob.near",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "davidmo.near",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "6cde8307d6d5d49c5c0968eb63a6463c41a4d500a32af936a9e9939300490e86",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "shitzu.marior.near",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "aac81ffeeaec82e73390853b582a6a848f5e1352d32e4e249b80b70551837a5d",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "marior.near",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "cwpuzzles.near",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "sharddog.near",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "6da1f76b599a9a80c79fd453dd77f829d15b8338e668f6579e6c5bdf86effc62",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "manhmai11.near",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "golynemachpirat.near",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "truths.near",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "rhymetaylor.near",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "nickharrington.near",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "binancehere.near",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "b292122916301a94754abcb81641a26a440bb0e3271360ef8864c046a2b730cf",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "brzk-93444.near",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "tadaaa.near",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "6712761d284bcb75729620432cd27e3242002b44b2dcd0838d68ad8b587461f6",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "herm.near",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "khanhhq.near",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "3b5ce51ed5844038a7a9e65bd54116225ae1411201e70221cd0ce373a99d2c28",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "aarond.near",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "blackdragon_lonk.near",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "congminh94.near",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "anran233.near",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "vinhuni.near",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "nongyanxia1212.near",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "3283.near",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "katea.near",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "buidlon.near",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "matrainier.near",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "decollation.near",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "one2.near",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "fankcet.near",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "leexanonis.tg",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "wapzp.near",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "thisismine89.near",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "memefeeder.near",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "wap9.near",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "jp_morgan_chase.near",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "stasiey.near",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "flokielon.near",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "littledata.near",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "atrox1382.near",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "6340107000294d4dc5c0820cc395e034d3364aebdf89489fb5cd24cdd6f7f018",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "bottomsignal.near",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "requiemnick.near",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "nekotoken.near",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "chuyenbannon.near",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "q8i.near",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "919fc3040a5e1220029356508e74c6fdc0f5f3797911005ca3ab617f3e13b64f",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "wap909.near",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "hcobak.near",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "bizvc.near",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "9de9ddd92bcf2a8407ceb197afa8e44d0f2607a78fa25feb5fea207eabf5f4cd",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "goto.near",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "motinha.near",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "i6743224471.tg",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "rejinderi.near",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "car_parts.near",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "nickoall.near",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "ivanovic.near",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "pring2.near",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "localoasis.near",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "satojandro.near",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "async.near",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "1ce2567f7f49cb34cea72179223ec7fc4ba91077da3e01364d0c729dfbe26467",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "9591a50d63e1a2390c9481dd75d643ee9f53fea141d3bf4c64b1d166585430f3",
+      "amount": "50000000000000000000000"
+    },
+    {
+      "wallet": "19f7dbc58065da8a3cc636987d646b3844517fef9533b3d86bef4f3e10a194bd",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "avocady.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "f51256fa8f0b7570282a334e0161a582ee96c4286e8e9a23d442830001de0c3c",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "jayythew.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "michaeltyson.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "travbori.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "mhc.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "efiz.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "alejandro.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "suku12689.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "lucassmithvn.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "wealthy_wallet.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "devbose.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "zzw.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "adisa81.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "screamingautist.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "1dc244f926c31caaf1d1e975b5b1cb47446af4c5e491a7c89dd6915e00c0499f",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "tritran_17.tg",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "b029600066b79e7040b9dca00c548e8d124966bd931c758e00a49c8fa625c9b8",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "rafa88.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "localhost1211.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "fcsp.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "938c83fcf90350e4e5ad7f1a802d3db742718e194efbc77cf5a250742f61aeb9",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "dangsteven.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "0234hoangnd78439.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "c559d8b1304063dbe77e030eecd89538cccb9d47818a487370b3ca8f176cc817",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "d2eb4dd5209c1450d38902c758f7e39a69f4dcc6ca5e648a20377781fb0890af",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "nammy.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "blizzlike_rm.tg",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "jackindeeper.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "mikeyu.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "okpok.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "59583199fc8d2b7207ad71f5213b3e7c917cbf07579d0e63fe1d7cebd9a2cd00",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "65static.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "troyp.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "0c52b9050fba50791065c3aff3d6171b9f0e682e973f8e659c1025953d6612df",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "rabbit5.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "saturdayvx.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "narrowjuice3513.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "beatdao.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "bbyo.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "cryptosbeforebros.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "harrymoonpotter.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "cocobay.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "shnzhn.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "fetaro911.tg",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "hoangnam1808.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "fizzymilk.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "slk12689.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "silverllama.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "npthebull.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "minhnguyen1205.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "cryptocaliburn.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "bearmans.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "anthony-hoang.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "nhaplycafedang.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "jaysonkr.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "andersonr.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "asj2022.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "suave.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "skywhale.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "mrlqd.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "zzoo-2718.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "columbavnes.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "hvn.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "kennyj.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "4e48036488daddebaf0c56d4985b47f1c38b350141d87596b49c8d94884762bf",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "frichard4.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "kamejoko.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "realnine999.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "thearkitect.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "lovelysugar.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "charaf.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "a0244742a4cbe6eb5227022032180ccd97f9860a7d0b3caa23f2da40401cda4f",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "undi.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "liailin.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "sexgod.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "e10b5a427a196b61a860ef792e1d367a510b9feb8dadcedc9f16fde31f66f369",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "riqi.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "gorn.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "ianong.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "235c4b97420aacc10362d15c18f0807c15a98dda1fb4644c0975b70e9e1eacbb",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "knightzoro0805.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "e4b89cf47959a2a4e4e2d361c0edb71fcb87ce3179e6999b8deba3b1af1447c9",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "028521fdcdb25436d59ca93155651d613b6d0312010fea8f69d1fbebeeb91b15",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "67fc57878cb0f1a578c8c15bd9524267b8918d4979bdbb55dc823d1bd977b8a0",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "abc05.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "rimberjack.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "tahuutho.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "sivakalathi008.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "cfeaf5451b4fb264eb7b96cc0b21b783557db23d420b9e3108e4b6f33040249b",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "steepapp.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "sivakalathi.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "1216b7badcaf43887b3243449df1e04a1394f28e0f7fbecc015e2f2430610672",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "8f5edf8d0fddda767b47265c11fac6bb6285d26b7b36dc6d6a80692e1ed97771",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "smile143.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "c1ea753c750ab4d51af22de78943ec5a3a54b94dbd5fc121b8151d69d0d6fb61",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "dezznate.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "blaze.near",
+      "amount": "20000000000000000000000"
+    },
+    {
+      "wallet": "fuego.near",
+      "amount": "20000000000000000000000"
+    }
+  ]
+}
